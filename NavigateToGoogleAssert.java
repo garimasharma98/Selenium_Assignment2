@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import utilities.selenium.WebDriverManager;
 
-public class NavigateToGoogle {
+public class NavigateToGoogleAssert {
 	
 	WebDriver driver;
 	WebDriverManager webDrvMgr;
